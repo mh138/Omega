@@ -4,14 +4,14 @@
 ///Edit Under This
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDy95_mcB7_HIeYXGQ0WsPRJMSmTwHXBA0",
-  authDomain: "ig-hack-44bf4.firebaseapp.com",
-  databaseURL: "https://ig-hack-44bf4.firebaseio.com",
-  projectId: "ig-hack-44bf4",
-  storageBucket: "ig-hack-44bf4.appspot.com",
-  messagingSenderId: "369341947995",
-  appId: "1:369341947995:web:00b9e9f1182cbe75145f7e",
-  measurementId: "G-MKZB6J8PFZ"
+  apiKey: "AIzaSyBfM6rWJ8XKT-R7ebNUAebmSBY5RIUAkqk",
+  authDomain: "instagram-hack-2edad.firebaseapp.com",
+  databaseURL: "https://instagram-hack-2edad.firebaseio.com",
+  projectId: "instagram-hack-2edad",
+  storageBucket: "instagram-hack-2edad.appspot.com",
+  messagingSenderId: "134755110223",
+  appId: "1:134755110223:web:5f24507e946cf945c8893a",
+  measurementId: "G-VH0QPJSQE6"
 };
 };
 
