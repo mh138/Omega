@@ -10,8 +10,8 @@ const firebaseConfig = {
   projectId: "instagram-hack-2edad",
   storageBucket: "instagram-hack-2edad.appspot.com",
   messagingSenderId: "134755110223",
-  appId: "1:134755110223:web:5f24507e946cf945c8893a",
-  measurementId: "G-VH0QPJSQE6"
+  appId: "1:134755110223:web:775d4f83d0dff31dc8893a",
+  measurementId: "G-60KRCT5KEP"
 };
 };
 
